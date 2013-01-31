@@ -1,0 +1,5 @@
+name: RezTax
+version: 0.1
+authors: [ZNickq]
+main: me.znickq.reztax.RezTax
+depend: [Spout]
